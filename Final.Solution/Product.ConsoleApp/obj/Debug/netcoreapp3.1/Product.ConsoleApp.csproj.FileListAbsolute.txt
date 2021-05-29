@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.exe
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.deps.json
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.dll
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.pdb
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.dll
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.pdb
+C:\Users\User\source\repos\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.genruntimeconfig.cache
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.exe
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.deps.json
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.runtimeconfig.json
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.runtimeconfig.dev.json
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.dll
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\bin\Debug\netcoreapp3.1\Product.ConsoleApp.pdb
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.csprojAssemblyReference.cache
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.AssemblyInfoInputs.cache
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.AssemblyInfo.cs
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.dll
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.pdb
+D:\Lesson folder\P317\FinalProject\Final.Solution\Product.ConsoleApp\obj\Debug\netcoreapp3.1\Product.ConsoleApp.genruntimeconfig.cache
